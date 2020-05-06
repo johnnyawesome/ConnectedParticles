@@ -12,7 +12,7 @@ A particle-effect written in JavaScript using P5JS
 
 ## Info
 
-This is the stupid particle effect you see on every homepage.
+This is the stupid particle effect you see all over the web.
 Even [Processing.org](https://processing.org/) has a version of it on it's very frontpage.
 
 I always disliked it, and so I thought I'll make my own, to be done with it forever!

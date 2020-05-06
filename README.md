@@ -6,7 +6,7 @@ A particle-effect written in JavaScript using P5JS
 
 ## Two versions
 
-- If you just want the particle-effect, [ConnectedParticles](https://github.com/johnnyawesome/ConnectedParticles/tree/master/ConnectedParticles)
+- If you just want the particle-effect, get [ConnectedParticles](https://github.com/johnnyawesome/ConnectedParticles/tree/master/ConnectedParticles)
 
 - If you want the particles to avoid your mouse, take [ConnectedParticlesVector](https://github.com/johnnyawesome/ConnectedParticles/tree/master/ConnectedParticlesVector)
 

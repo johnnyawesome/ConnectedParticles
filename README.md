@@ -17,6 +17,8 @@ Even [Processing.org](https://processing.org/) has a version of it on it's very 
 
 I always disliked it, and so I thought I'll make my own, to be done with it forever!
 
+I even blogged about it [here](https://breaksome.tech/coding-a-particle-effect-in-p5js/) so you can read how simple it is to code something like this yourself! 
+
 ## Background
 
 The version in which the particles avoid the mouse uses *vectors*.

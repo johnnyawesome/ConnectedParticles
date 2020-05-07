@@ -10,6 +10,14 @@ A particle-effect written in JavaScript using P5JS
 
 - If you want the particles to avoid your mouse, take [ConnectedParticlesVector](https://github.com/johnnyawesome/ConnectedParticles/tree/master/ConnectedParticlesVector)
 
+## Background
+
+The version in which the particles avoid the mouse uses *vectors*.
+I avoided those like tha plague so far, because, you know, vectors.
+
+If you too think they're complicated, have a look at this project. It turns out they're not so bad! 😉
+
+
 ## Info
 
 This is the stupid particle effect you see all over the web.
@@ -18,10 +26,3 @@ Even [Processing.org](https://processing.org/) has a version of it on it's very 
 I always disliked it, and so I thought I'll make my own, to be done with it forever!
 
 I even blogged about it [here](https://breaksome.tech/coding-a-particle-effect-in-p5js/) so you can read how simple it is to code something like this yourself! 
-
-## Background
-
-The version in which the particles avoid the mouse uses *vectors*.
-I avoided those like tha plague so far, because, you know, vectors.
-
-If you too think they're complicated, have a look at this project. It turns out they're not so bad! 😉

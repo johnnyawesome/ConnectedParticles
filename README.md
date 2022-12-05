@@ -24,5 +24,3 @@ This is the stupid particle effect you see all over the web.
 Even [Processing.org](https://processing.org/) has a version of it on it's very frontpage.
 
 I always disliked it, and so I thought I'll make my own, to be done with it forever!
-
-I even blogged about it [here](https://breaksome.tech/coding-a-particle-effect-in-p5js/) so you can read how simple it is to code something like this yourself! 
